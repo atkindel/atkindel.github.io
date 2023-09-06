@@ -1,0 +1,66 @@
+/* css styles */
+.navbar {
+    /* background-color: #E6142D !important; */
+    background-color: #00202e;
+    animation: bgColor 120s infinite alternate linear;
+    /* -webkit-transition: background-color 10s ease-out;
+    -moz-transition:    background-color 10s ease-out;
+    -ms-transition:     background-color 10s ease-out;
+    -o-transition:      background-color 10s ease-out;
+    transition:         background-color 10s ease-out; */
+    
+}
+
+/* @keyframes bgColor {
+    12.5% {
+      background-color: #FF0000;
+    }
+    25% {
+      background-color: #FFA500;
+    }
+    37.5% {
+      background-color: #FFFF00;
+    }
+    50% {
+      background-color: #7FFF00;
+    }
+    62.5% {
+      background-color: #00FFFF;
+    }
+    75% {
+      background-color: #0000FF;
+    }
+    87.5% {
+      background-color: #9932CC;
+    }
+    100% {
+      background-color: #FF1493;
+    }
+  } */
+
+  @keyframes bgColor {
+    12.5% {
+      background-color: #00202e;
+    }
+    25% {
+      background-color: #003f5c;
+    }
+    37.5% {
+      background-color: #2c4875;
+    }
+    50% {
+      background-color: #8a508f;
+    }
+    62.5% {
+      background-color: #bc5090;
+    }
+    75% {
+      background-color: #ff6361;
+    }
+    87.5% {
+      background-color: #ff8531;
+    }
+    100% {
+      background-color: #ffa600;
+    }
+  }
